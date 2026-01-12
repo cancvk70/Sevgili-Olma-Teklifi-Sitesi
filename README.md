@@ -4,12 +4,12 @@ Kişiye özel, tatlı ve biraz da muzip bir **"benimle sevgili olur musun?"** te
 
 ### Özellikler
 
-- Tamamen mobil uyumlu tasarım
-- Kaçan "Hayır" butonu  
-  → Mobil: dokununca kaçıyor  
-  → Bilgisayar: mouse üzerine gelince kaçıyor
-- Yumuşak açılış animasyonu + yüzen kalp efektleri
-- "Evet" dedikten sonra çok tatlı bir başarı ekranı
+- Tamamen mobil uyumlu tasarım  
+- Kaçan "Hayır" butonu (neredeyse imkansız tıklamak 😏)  
+  → Mobil: dokununca anında kaçıyor  
+  → Bilgisayar: mouse üstüne gelince ve tıklayınca kaçıyor  
+- Yumuşak açılış animasyonu + yüzen kalp efektleri  
+- "Evet" dedikten sonra çok tatlı bir başarı ekranı  
 
 ### Kişiselleştirme (çok kolay!)
 
