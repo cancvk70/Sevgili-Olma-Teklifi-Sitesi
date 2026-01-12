@@ -42,5 +42,8 @@ document.addEventListener("DOMContentLoaded", () => {
     e.preventDefault();
     moveNoButton();
   }, { passive: false });
+  noBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+    moveNoButton();
+  });
 });
-
