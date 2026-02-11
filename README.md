@@ -17,3 +17,5 @@ Sadece `js/script.js` dosyasındaki şu satırı değiştir:
 
 ```javascript
 const KISI_ISMI = "Ecrin";               // ← Sevgilinin ismi
+---
+Made By Sp9ksy
