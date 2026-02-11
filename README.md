@@ -16,6 +16,8 @@ Kişiye özel, tatlı ve biraz da muzip bir **"benimle sevgili olur musun?"** te
 Sadece `js/script.js` dosyasındaki şu satırı değiştir:
 
 ```javascript
-const KISI_ISMI = "Ecrin";               // ← Sevgilinin ismi```
+const KISI_ISMI = "Ecrin";               // ← Sevgilinin ismi
+```
+
 ---
 Made By Sp9ksy
